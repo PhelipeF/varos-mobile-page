@@ -4,7 +4,7 @@ const Showcase = (): JSX.Element => {
 const assets = {
     StartupsValuations: '/assets/images/Startups-Valuation.svg',
     growingCompanies: '/assets/images/Empresas-em-crescimento.svg',
-    restructuringCompanies: '/assets/images/Empresas-em-Reestruturação.svg',
+    restructuringCompanies: '/assets/images/Empresas-em-Reestruturacao.svg',
     matureCompanies: '/assets/images/Empresas-maduras.svg',
   };
   return(
