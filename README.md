@@ -31,7 +31,6 @@ Agora basta ir no formulário e preenche-lo corretamente, em caso de formulário
 - [Styled Components](styled-components.com/)
 - [Axios](https://axios-http.com/docs/intro)
 - [Figma](https://www.figma.com)
-- [Esforço](https://github.com/PhelipeF)
 
 ### License
 [MIT](LICENSE)
